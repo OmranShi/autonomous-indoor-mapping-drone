@@ -7,7 +7,7 @@ This project aims to develop an AI-based autonomous drone capable of indoor buil
 - Indoor navigation
 - Obstacle detection
 - Room dimension estimation
-- 2D map generation
+- 3D map generation
 - Raspberry Pi based processing
 - Computer Vision using OpenCV
 
